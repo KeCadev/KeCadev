@@ -1,0 +1,2 @@
+- 👋 Hi, I’m KeCa
+- 👀 I’m interested in development. I like creating life changing solutions to problems
