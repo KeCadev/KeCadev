@@ -1,2 +1,2 @@
-- 👋 Hi, I’m KeCa
+- 👋 Hi, I’m 0xkill
 - 👀 I’m interested in development. I like creating life changing solutions to problems
